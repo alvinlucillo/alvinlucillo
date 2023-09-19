@@ -11,7 +11,7 @@
 
 <h3 align="left">Let's connect! </h3>
 <p align="left">
-<a href="[https://medium.com/@vctth](https://medium.com/nullifying-the-null)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vctth" height="30" width="40" /></a>
+<a href="https://medium.com/@vctth](https://medium.com/nullifying-the-null" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@vctth" height="30" width="40" /></a>
   <a href="https://linkedin.com/in/alvinlucillo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="alvinlucillo" height="30" width="40" /></a>
 </p>
 

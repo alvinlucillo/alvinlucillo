@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working in Airlock Digital.
 
-- 🌱 I’m currently learning a lot of things, but more recently, I'm exploring microservices and AWS
+- 🌱 I’m currently learning a lot of things, but more recently, I'm exploring k8s and Azure.
 
 
 <h3 align="left">Let's connect! </h3>

@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvinlucillo&label=Profile%20views&color=0e75b6&style=flat" alt="alvinlucillo" /> </p>
 
-- 🔭 I’m currently working in [Trevipay]([https://github.com/manabie-com](https://www.trevipay.com/))
+- 🔭 I’m currently working in Airlock Digital.
 
 - 🌱 I’m currently learning a lot of things, but more recently, I'm exploring microservices and AWS
 

@@ -21,4 +21,3 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinlucillo&show_icons=true&locale=en&layout=compact" alt="alvinlucillo" /></p>
 <p><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=alvinlucillo&theme=tokyonight" alt="GitHub Streak" /></a></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=alvinlucillo)](https://git.io/streak-stats)

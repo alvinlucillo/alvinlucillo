@@ -20,4 +20,4 @@
 
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinlucillo&show_icons=true&locale=en&layout=compact" alt="alvinlucillo" /></p>
-<p><a href="https://git.io/streak-stats?user=alvinlucillo&theme=tokyonight"><img src="https://streak-stats.demolab.com?user=alvinlucillo&theme=tokyonight" alt="GitHub Streak" /></a></p>
+<p><a href="https://git.io/streak-stats?user=alvinlucillo&theme=tokyonight"><img src="https://streak-stats.demolab.com?user=alvinlucillo&theme=tokyonight" alt="GitHub Streak: https://git.io/streak-stats?user=alvinlucillo" /></a></p>

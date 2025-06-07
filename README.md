@@ -3,12 +3,6 @@
 <h3 align="center">I'm a full-stack developer </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alvinlucillo&label=Profile%20views&color=0e75b6&style=flat" alt="alvinlucillo" /> </p>
-
-- 🔭 I’m currently working in Airlock Digital.
-
-- 🌱 I’m currently learning a lot of things, but more recently, I'm exploring k8s and Azure.
-
-
 <h3 align="left">Let's connect! </h3>
 <p align="left">
 <a href="https://medium.com/nullifying-the-null" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"  height="30" width="40" /></a>

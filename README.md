@@ -3,5 +3,4 @@
 <h3 align="center">I'm a full-stack developer </h3>
 <p align="left">
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alvinlucillo&show_icons=true&locale=en&layout=compact" alt="alvinlucillo" /></p>
 <p><a href="https://luxury-mermaid-e9d5a8.netlify.app/streak.svg"><img src="https://luxury-mermaid-e9d5a8.netlify.app/streak.svg" alt="GitHub Streak: https://luxury-mermaid-e9d5a8.netlify.app/streak.svg" /></a></p>
